@@ -148,6 +148,10 @@
             <groupId>io.cronapp</groupId>
             <artifactId>cronapp-framework-auditlog</artifactId>
         </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
